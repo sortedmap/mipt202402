@@ -1,1 +1,1 @@
-alert('YES');
+alert('ALARM');
